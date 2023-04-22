@@ -4,8 +4,8 @@ This is a simple Python script for merging multiple PDF files into a single PDF 
 
 ## Usage
 
-1. Clone the repository using `git clone https://github.com/yourusername/pdf-merger.git`
-2. Navigate to the repository directory using `cd pdf-merger`
+1. Clone the repository using `git clone https://github.com/jakobkreft/Merge-PDF.git`
+2. Navigate to the repository directory using `cd Merge-PDF`
 3. Run the script using `python merge_pdfs.py`
 4. Enter the input directory path containing PDF files when prompted.
 5. Enter the output file name when prompted. The output file will be saved in the same directory as the input files.
